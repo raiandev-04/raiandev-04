@@ -2,7 +2,7 @@
 
 🎓 Técnico em Análise e Desenvolvimento de Sistemas.
 
-💼 Possuo experiência de aproximadamente 1 ano em suporte de TI na Reitoria do Instituto Federal da Bahia (IFBA), atuando no atendimento e resolução de demandas técnicas.
+💼 Possuo experiência de 1 ano em suporte de TI na Reitoria do Instituto Federal da Bahia (IFBA), atuando no atendimento e resolução de demandas técnicas.
 
 💻 Atualmente estou direcionando meus estudos para o desenvolvimento backend, consolidando meus conhecimentos em Python e SQL, além de desenvolver projetos práticos com HTML, CSS e JavaScript para fortalecer minha base em desenvolvimento web.
 
@@ -65,14 +65,13 @@ Acredito que a prática constante e o aprendizado contínuo são fundamentais pa
 - 📖 Estudando Python diariamente
 - 🗄 Aprimorando conhecimentos em SQL e MySQL
 - 💻 Desenvolvendo projetos para compor meu portfólio
-- 🚀 Em busca da minha primeira oportunidade como Desenvolvedor Júnior
 
 ---
 
 ## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/raian-nunes-aa0059284/
-- 📧 E-mail: Raiannunes48@gmail.com
+- 📧 E-mail: Raiannunes48@gmail.com/ Raiandev04@gmail.com
 
 ---
 

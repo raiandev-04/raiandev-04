@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Raian Antonio 👋
 
-<!--
-**raiandev-04/raiandev-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico em Análise e Desenvolvimento de Sistemas, com experiência de 1 ano em suporte de TI na Reitoria do IFBA.
 
-Here are some ideas to get you started:
+Atualmente estou direcionando meus estudos para desenvolvimento backend com Python, SQL e desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Python
+- SQL
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+
+## Projetos em destaque
+
+- Sistema de Chamados Técnicos
+- CRUD de Cadastros
+- Projeto de Conclusão de Curso tecnico
+
+## Objetivo
+
+Busco minha primeira oportunidade como Desenvolvedor Júnior.

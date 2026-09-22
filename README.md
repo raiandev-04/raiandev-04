@@ -1,6 +1,8 @@
 # Olá, eu sou Raian Antonio 👋
 
-🎓 Técnico em Análise e Desenvolvimento de Sistemas.
+🎓 Técnico em Desenvolvimento de Sistemas.
+
+🎓 Graduando Analise Desenvolvimento de Sistemas.
 
 💼 Possuo experiência de 1 ano em suporte de TI na Reitoria do Instituto Federal da Bahia (IFBA), atuando no atendimento e resolução de demandas técnicas.
 

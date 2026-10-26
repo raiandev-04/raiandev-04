@@ -72,7 +72,7 @@ Acredito que a prática constante e o aprendizado contínuo são fundamentais pa
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/raian-nunes-aa0059284/
+- 💼 LinkedIn: https://www.linkedin.com/in/raian-nunes
 - 📧 E-mail: Raiannunes48@gmail.com/ Raiandev04@gmail.com
 
 ---
